@@ -1,0 +1,209 @@
+# Доп. адреса к zapret:
+157.240.245.174 instagram.com
+157.240.245.174 www.instagram.com
+157.240.245.174 b.i.instagram.com
+157.240.253.175 z-p42-chat-e2ee-ig.facebook.com
+157.240.245.174 help.instagram.com
+3.66.189.153 protonmail.com
+3.66.189.153 mail.proton.me
+216.58.206.33 yt3.ggpht.com
+52.223.13.41 tracker.openbittorrent.com
+
+# ChatGPT, OpenAI:
+45.95.233.23 chatgpt.com
+185.246.223.127 ab.chatgpt.com
+185.246.223.127 auth.openai.com
+185.246.223.127 auth0.openai.com
+185.246.223.127 platform.openai.com
+185.246.223.127 cdn.oaistatic.com
+185.246.223.127 files.oaiusercontent.com
+13.33.223.41 cdn.auth0.com
+185.246.223.127 tcr9i.chat.openai.com
+185.246.223.127 webrtc.chatgpt.com
+185.246.223.127 android.chat.openai.com
+185.246.223.127 api.openai.com
+185.246.223.127 operator.chatgpt.com
+185.246.223.127 sora.chatgpt.com
+185.246.223.127 sora.com
+185.246.223.127 sora.chatgpt.com
+185.246.223.127 videos.openai.com
+
+# Сервисы Google:
+185.246.223.127 gemini.google.com
+204.12.192.219 aistudio.google.com
+185.246.223.127 generativelanguage.googleapis.com
+185.246.223.127 aitestkitchen.withgoogle.com
+185.246.223.127 aisandbox-pa.googleapis.com
+204.12.192.219 webchannel-alkalimakersuite-pa.clients6.google.com
+204.12.192.219 alkalimakersuite-pa.clients6.google.com
+185.246.223.127 assistant-s3-pa.googleapis.com
+185.246.223.127 proactivebackend-pa.googleapis.com
+185.246.223.127 o.pki.goog
+185.246.223.127 labs.google
+185.246.223.127 notebooklm.google
+185.246.223.127 notebooklm.google.com
+185.246.223.127 jules.google.com
+185.246.223.127 stitch.withgoogle.com
+
+# Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming:
+185.246.223.127 copilot.microsoft.com
+185.246.223.127 sydney.bing.com
+185.246.223.127 edgeservices.bing.com
+185.246.223.127 rewards.bing.com
+185.246.223.127 xsts.auth.xboxlive.com
+185.246.223.127 xgpuwebf2p.gssv-play-prod.xboxlive.com
+185.246.223.127 xgpuweb.gssv-play-prod.xboxlive.com
+
+# Spotify:
+185.246.223.127 api.spotify.com
+185.246.223.127 xpui.app.spotify.com
+185.246.223.127 appresolve.spotify.com
+185.246.223.127 login5.spotify.com
+185.246.223.127 login.app.spotify.com
+23.55.110.147 encore.scdn.co
+185.246.223.127 ap-gew1.spotify.com
+185.246.223.127 gew1-spclient.spotify.com
+185.246.223.127 spclient.wg.spotify.com
+185.246.223.127 api-partner.spotify.com
+185.246.223.127 aet.spotify.com
+185.246.223.127 www.spotify.com
+185.246.223.127 accounts.spotify.com
+185.246.223.127 open.spotify.com
+
+# GitHub Copilot:
+185.246.223.127 api.github.com
+185.246.223.127 api.individual.githubcopilot.com
+185.246.223.127 proxy.individual.githubcopilot.com
+
+# JetBrains:
+185.246.223.127 datalore.jetbrains.com
+185.246.223.127 plugins.jetbrains.com
+185.246.223.127 download.jetbrains.com
+
+# ElevenLabs:
+185.246.223.127 elevenlabs.io
+185.246.223.127 api.us.elevenlabs.io
+185.246.223.127 elevenreader.io
+45.95.233.23 api.elevenlabs.io
+185.246.223.127 help.elevenlabs.io
+
+# Truth Social
+204.12.192.219 truthsocial.com
+204.12.192.219 static-assets-1.truthsocial.com
+
+# Grok
+185.246.223.127 grok.com
+185.246.223.127 accounts.x.ai
+185.246.223.127 assets.grok.com
+
+# Tidal
+185.246.223.127 api.tidal.com
+185.246.223.127 listen.tidal.com
+185.246.223.127 login.tidal.com
+185.246.223.127 auth.tidal.com
+185.246.223.127 link.tidal.com
+185.246.223.127 dd.tidal.com
+185.246.223.127 resources.tidal.com
+185.246.223.127 images.tidal.com
+185.246.223.127 fsu.fa.tidal.com
+172.64.155.119 geolocation.onetrust.com
+162.159.137.66 api.squareup.com
+162.159.137.66 api-global.squareup.com
+
+# Clash Royale, Clash of Clans, Brawl Stars
+108.138.199.10 cdn.id.supercell.com
+3.166.14.19 security.id.supercell.com
+185.246.223.127 accounts.supercell.com
+18.66.195.96 game-assets.clashroyaleapp.com
+51.158.190.98 game.clashroyaleapp.com
+18.66.195.96 game-assets.clashofclans.com
+70.34.251.56 gamea.clashofclans.com
+108.157.194.81 clashofclans.inbox.supercell.com
+179.43.168.109 game.brawlstarsgame.com
+18.239.69.129 game-assets.brawlstarsgame.com
+185.246.223.127 store.supercell.com
+
+# DeepL
+185.246.223.127 deepl.com
+185.246.223.127 www.deepl.com
+185.246.223.127 www2.deepl.com
+185.246.223.127 login-wall.deepl.com
+185.246.223.127 w.deepl.com
+185.246.223.127 s.deepl.com
+185.246.223.127 dict.deepl.com
+185.246.223.127 ita-free.www.deepl.com
+185.246.223.127 write-free.www.deepl.com
+185.246.223.127 experimentation.deepl.com
+
+# Deezer
+185.246.223.127 deezer.com
+185.246.223.127 www.deezer.com
+185.246.223.127 dzcdn.net
+185.246.223.127 payment.deezer.com
+
+# Weather.com
+185.246.223.127 weather.com
+185.246.223.127 upsx.weather.com
+
+# Guilded
+204.12.192.219 guilded.gg
+204.12.192.219 www.guilded.gg
+
+# Fitbit
+185.246.223.127 api.fitbit.com
+185.246.223.127 fitbit-pa.googleapis.com
+185.246.223.127 fitbitvestibuleshim-pa.googleapis.com
+185.246.223.127 fitbit.google.com
+
+# Другое:
+185.246.223.127 claude.ai
+185.246.223.127 console.anthropic.com
+185.246.223.127 www.notion.so
+185.246.223.127 www.canva.com
+185.246.223.127 www.intel.com
+185.246.223.127 www.dell.com
+50.7.85.219 www.tiktok.com # Только на сайте. Приложение определяет регион по оператору, а не по IP.
+142.54.189.106 web.archive.org # Блокирует от российских IP некоторые сайты
+185.246.223.127 developer.nvidia.com
+185.246.223.127 builds.parsec.app
+185.246.223.127 tria.ge
+185.246.223.127 api.imgur.com
+185.246.223.127 www.dyson.com
+185.246.223.127 www.dyson.fr
+185.246.223.127 usher.ttvnw.net
+185.246.223.127 api.manus.im
+185.246.223.127 4pda.to
+185.246.223.127 app.4pda.to
+185.246.223.127 s.4pda.to
+185.246.223.127 appbk.4pda.to
+
+# Блокировка плохих сайтов
+# Скримеры:
+0.0.0.0 only-fans.uk
+0.0.0.0 only-fans.me
+0.0.0.0 onlyfans.wtf
+# IP Logger'ы:
+0.0.0.0 iplogger.org
+0.0.0.0 wl.gl
+0.0.0.0 ed.tc
+0.0.0.0 bc.ax
+0.0.0.0 maper.info
+0.0.0.0 2no.co
+0.0.0.0 yip.su
+0.0.0.0 iplis.ru
+0.0.0.0 ezstat.ru
+0.0.0.0 iplog.co
+0.0.0.0 grabify.org
+
+# Мусор/реклама:
+0.0.0.0 log16-platform-ycru.tiktokv.com
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-dev.pinterest.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 an.yandex.ru
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 amc.yandex.ru
